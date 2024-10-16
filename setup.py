@@ -84,7 +84,7 @@ SETUP = Setup(
     # installed. For an analysis of "install_requires" vs pip's requirements files see:
     # https://packaging.python.org/en/latest/requirements.html
     install_requires=[
-        "psutil", "dutil", "pyarrow>=5.0.0", "hipe4ml>=0.0.17",
+        "psutil", "dutil", "pyarrow>=5.0.0", "hipe4ml>=0.0.18",
         "ipython>=7.16.1", "jedi==0.17.2", "torch>=1.7.0",
         "scikit-learn>=0.21.3", "onnxconverter-common>=1.13.0",
         "numpy<2.0.0,>=1.23.5", "skl2onnx>=1.12.0", "onnxmltools>=1.6.0,<=1.12.0",

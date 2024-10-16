@@ -1,7 +1,7 @@
 psutil
 dutil
 numpy<2.0.0,>=1.23.5
-hipe4ml>=0.0.17
+hipe4ml>=0.0.18
 torch>1.7.0
 scikit-learn>=0.21.3
 onnxconverter-common>=1.13.0
